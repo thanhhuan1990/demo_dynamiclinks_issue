@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958005285593",
+    "project_id": "fir-dynamiclinks-issue",
+    "storage_bucket": "fir-dynamiclinks-issue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958005285593:android:ec64f462b5bf20352a64c8",
+        "android_client_info": {
+          "package_name": "com.example.demo_dynamiclinks_issue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958005285593-pikqphnqor27qal3m8b0cpa0a0voblgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8dU3VJ-M9TV6aXQk8mD6faT86crIOtR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958005285593-pikqphnqor27qal3m8b0cpa0a0voblgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
